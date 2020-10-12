@@ -1,0 +1,28 @@
+{
+  "name": "foreach-object",
+  "version": "1.0.2",
+  "description": "Provides a secure function to iterate over keys and values. Usage is similar to Javascript Array.prototype.forEach",
+  "license": "Apache",
+  "repository": "aroshasum/foreach-object",
+  "main": "./src/foreach-object.js",
+  "directories": {
+    "lib": "src"
+  },
+  "keywords": [
+    "foreach-object",
+    "foreach object",
+    "object-foreach",
+    "object foreach",
+    "object iteration",
+    "iteration",
+    "array foreach equivalent",
+    "npm",
+    "package",
+    "aroshasum"
+  ],
+  "homepage" : "https://github.com/aroshasum/foreach-object",
+  "author": {
+    "name"      : "Arosha Sumanaweera",
+    "email"     : "arosha2007@gmail.com"
+  }
+}
