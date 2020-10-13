@@ -18,7 +18,7 @@ After installing foreach-object module, you can use either `import` syntax of ES
 #### Using `import`
 
 ```
-import each from '../src/foreach-object';
+import each from 'foreach-object';
    
 const object = {
    firstName: 'Arosha',
@@ -39,7 +39,7 @@ each(object, (value, key, object) => {
 #### Using `require`
 
 ```
-const each = require('object-foreach');
+const each = require('foreach-object');
 
 const object = {
    firstName: 'Arosha',

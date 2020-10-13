@@ -1,6 +1,6 @@
 {
   "name": "foreach-object",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Provides a secure function to iterate over keys and values. Usage is similar to Javascript Array.prototype.forEach",
   "license": "Apache",
   "repository": "aroshasum/foreach-object",
